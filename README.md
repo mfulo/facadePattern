@@ -18,6 +18,7 @@ The HotelApp needs to manage various hotel services for guest check-in and check
 \> HotelApp: The client class that uses the FrontDesk facade to access and utilize hotel services seamlessly.
 
 ## UML Diagram
+![UML](https://github.com/mfulo/facadePattern/assets/142382665/af24d275-013b-456e-a7d2-e836e4a18859)
 
 ## Sample Console Output
 ![output](https://github.com/mfulo/facadePattern/assets/142382665/97f79072-f769-45e6-a537-72d133807973)
